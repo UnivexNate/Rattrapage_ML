@@ -1,0 +1,9 @@
+# Ignore all files
+*
+
+# Allow .ipynb files
+!*.ipynb
+
+# Allow dataset files (adjust the extensions as needed)
+*.csv
+!*.xlsx
